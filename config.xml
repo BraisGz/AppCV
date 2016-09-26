@@ -1,0 +1,10 @@
+<widget id="com.braisjorgecv.miapp" version="0.1.0">
+    <name>Brais Jorge CV</name>
+    <description>
+      Currículum Vitae | Brais Jorge Tobío
+    </description>
+    <author email="braisjorge@gmail.com" href="http://braisjorge.xyz">
+        Brais Jorge
+    </author>
+     <icon src="icon.png" />
+</widget>
